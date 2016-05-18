@@ -72,7 +72,7 @@ div#container h3 {font-size: 1.6em;
 
 <div id="container">
 
-<h1>防災システム BOSS</h1>
+<h1>防災システム BOSSS</h1>
 <br>
 
 <h2>石巻市防災訓練用　津波シミュレーション結果</h2>
