@@ -22,7 +22,7 @@ div#footer
 
 /* メニュー */
 ul#menu	{font-size: 0.95em;
-	margin-left: 0;
+	margin-left: 10;
 	padding-left: 0;
 	margin-bottom: 7px;
 	text-align: left;
